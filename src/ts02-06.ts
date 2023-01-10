@@ -5,5 +5,9 @@ something = true
 
 console.log(something)
 
-letarr:any[] = ["Mark",210,true]
-Array.push{}
+let arr:any[] = ["Mark",210,true]
+arr.push("Smit")
+arr.push(300)
+arr.push(false)
+
+console.log(arr)

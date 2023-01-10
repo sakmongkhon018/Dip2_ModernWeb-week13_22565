@@ -7,8 +7,8 @@ for (i in arr2) {
     console.log(`${arr2[i]}`);
 }
 let p;
-//let province:string[] = new Array("Trat","chantaburi","Rayong")
-let province = ["Trat", "chantaburi", "Rayong"];
+// let province:string[] = new Array("Trat","Chantaburi","Rayong")
+let province = ["Trat", "Chantaburi", "Rayong"];
 for (p in province) {
     console.log(`${province[p]}`);
 }
